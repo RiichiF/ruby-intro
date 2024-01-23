@@ -17,3 +17,33 @@
 # Combine strings and variables
 
 # String manipulation
+
+# put the number 2 on screen
+# puts 2
+
+# put tacos on screen
+# puts "tacos"
+
+# puts nil
+
+# store 2 and 5 into x and y in memory
+x = 2
+y = 5
+
+# put the value of x on screen
+puts x
+
+# put the value of y on screen
+puts y
+
+# put the product of x and y on screen
+puts x * y
+
+# store my favorite thing in memory
+favorite_thing = "tacos"
+
+# write my favorite thing to the screen
+puts favorite_thing
+
+# write my favorite thing backwards to the screen
+puts favorite_thing.reverse

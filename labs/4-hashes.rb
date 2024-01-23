@@ -30,3 +30,11 @@ bitcoin = bitcoin.to_f
 
 # 3. inspect the bitcoin_data hash
 # puts bitcoin_data
+
+bitcoin_data = {
+    "bitcoin" => bitcoin,
+    "worth" => bitcoin * 
+}
+
+puts 
+
